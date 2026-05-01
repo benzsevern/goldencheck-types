@@ -1,3 +1,5 @@
+> **Moved.** This repo has moved into the [`benzsevern/goldenmatch`](https://github.com/benzsevern/goldenmatch) monorepo at `packages/typescript/goldencheck-types/`. This repo is archived; new development happens in the monorepo.
+
 # GoldenCheck Community Types
 
 Community-contributed semantic type definitions for [GoldenCheck](https://github.com/benzsevern/goldencheck).
